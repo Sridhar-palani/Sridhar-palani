@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Softwares
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate  
-- 📫 Reac me @sizlingsridare@gamil.com
+- 📫 Reach me @sizlingsridare@gamil.com
 - ⚡ Fun fact: Im a newbie on programming
 
 <!---
